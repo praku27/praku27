@@ -8,5 +8,5 @@
 - 💬 Ask me about **C-Language , Java and Python**
 - 📫 How to reach me: prashant.kushwaha@hotmail.com
 - 😄 Pronouns: Innocent and Hardworking
-- ⚡ Fun fact: Analyst but not a pro-coder 
+- ⚡ Fun fact: Great Analyst 😇 but not a Pro-oder 😶
 
