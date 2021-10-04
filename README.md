@@ -1,9 +1,5 @@
-### Hi there 👋
-
-
-**praku27/praku27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there👋
+### Prashant this side 
 
 - 🔭 I’m currently working on projects of data analysis by using python libraries.
 - 🌱 I’m currently learning data structures and algorithm.
@@ -11,6 +7,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with data analysis and data data science.
 - 💬 Ask me about C-Language , Java and Python
 - 📫 How to reach me: prashant.kushwaha@hotmail.com
-- 😄 Pronouns: Joke
-- ⚡ Fun fact: coffee <3
+- 😄 Pronouns: Innocent and Hardworking
+- ⚡ Fun fact: Analyst but not a pro-coder 
 
